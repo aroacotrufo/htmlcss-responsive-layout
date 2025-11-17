@@ -34,8 +34,23 @@
     .recipe-title{
        font-size:26px;
     }
-    .quick-notes li{
-        
+    .quick-notes li {
+        display:block;
+    }
+    .recipe-card{
+       display:flex;
+    }
+    .recipe-video {
+	height: 50vw;
+    width:500px
+    }
+    .social-networks .label {
+	display: flex;;
+    }
+    footer{
+        display:flex;
+        justify-content: space-between;
+        text-align: left;
     }
 
 }
