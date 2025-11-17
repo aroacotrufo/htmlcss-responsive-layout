@@ -29,3 +29,13 @@
         margin-right: 20px;
     }
 }
+/* FOR DESKTOP*/
+@media screen and (min-width:992px){
+    .recipe-title{
+       font-size:26px;
+    }
+    .quick-notes li{
+        
+    }
+
+}
