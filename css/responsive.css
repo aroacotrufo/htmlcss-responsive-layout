@@ -5,7 +5,17 @@
     #topbar {
 	    justify-content: flex-start;
     }
-    .recipe-origin {
-	display: flex;
-}
+    .recipe-origin {   
+    display:inline-block;
+    }
+    .container{
+        padding:35px;
+    }
+    .recipe-title{
+       font-size:22px;
+    }
+    .quick-notes li{
+        display:inline-block;
+        width:30%;
+    }
 }
